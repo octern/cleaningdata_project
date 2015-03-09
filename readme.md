@@ -14,4 +14,4 @@ Variable names are taken from `features.txt`. For further information on what ea
 
 If you wish to reprocess the original data, just download the zip file, extract it, and place run_analysis.R in the top-level directory. It must be invoked with `source("run_analysis.R", chdir=TRUE)`, or you can explicitly set the working directory using the instructions on line 14. The tidy data file will be written to a file named aggregates.csv in the same directory.
 
-If you have any questions, please contact (actual address would be here if this were real and not a class project).
+If you have any questions about this dataset, contact Michael at non@mcohn.net.
